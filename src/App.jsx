@@ -1,11 +1,11 @@
 
-import './App.css'
 function App() {
 
+  
   return (
-    <>
-
-    </>
+    <div className="w-full mx-auto bg-red-900">
+      
+    </div>
   )
 }
 

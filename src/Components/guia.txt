@@ -1,1 +1,5 @@
 COMPONENTES INICIAN POR MAYUSCULA, NO ES NECESARIO CREAR CARPETAS DENTRO DE COMPONENTES POR EL MOMENTO
+
+
+Usar la documentacion de ShadCn para importar COMPONENTES y copiar el comando en consola, debe ser npx y lo importado se encuentra en src/components/ui
+se le pueden agregar eventos y personalizar de manera más fácil con tailwindcss, usar documentacion de la pagina  
