@@ -55,7 +55,7 @@ export default function FormSignin() {
     try {
       await signInWithEmailAndPassword(auth, values.email, values.password);
       console.log("User logged in Successfully");
-      window.location.href = "/profile";
+      window.location.href = "/home";
       toast.success("User logged in Successfully", {
         position: "top-center",
       });
